@@ -1,7 +1,7 @@
 Gyógynövénykönyv
 ================
 
-.. image:: pics/krauterbuch.png
+.. image:: docs/pics/krauterbuch.png
  :width: 500
  :alt: borítókép
 	
@@ -12,16 +12,16 @@ Tartalom
 
 .. toctree::
 
-   leiras
-   kakukkfu
-   citromfu
-   orbancfu
-   aprobojt
-   borsment
-   koromvir
-   aranyvsz
-   palastfu
-   szurokfu
-   cickafrk
+   docs/leiras
+   docs/kakukkfu
+   docs/citromfu
+   docs/orbancfu
+   docs/aprobojt
+   docs/borsment
+   docs/koromvir
+   docs/aranyvsz
+   docs/palastfu
+   docs/szurokfu
+   docs/cickafrk
    
    
